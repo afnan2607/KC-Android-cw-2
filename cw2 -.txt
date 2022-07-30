@@ -1,0 +1,22 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		
+		String name =  "Afnan";
+		
+		int age = 15;
+		
+		System.out.println("Hi,My name is"+ name + "and I am" + age + "years old");
+	
+	   int height = 180;
+	
+ 	   if (height > 160){
+ 	     System.out.println("you can enter ");
+ 	    
+ 	   } else{
+ 	     System.out.println("you can not enter");
+ 	       
+ 	  
+ 	   }
+ 	 }	
